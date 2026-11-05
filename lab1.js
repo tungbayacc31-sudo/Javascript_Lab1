@@ -1,8 +1,9 @@
 //bài 1
+console.log("\n=== BÀI 1 ===");
 let studentID = "PH69918";
-let fullname = "Nguyen Duy Tung";
+let fullname = "Nguyễn Duy Tùng";
 let dateOfBirth ="31/10/2005";
-let placeOfBirth = "PhuTho";
+let placeOfBirth = "Phú Thọ";
 let major = "Information Technology";
 console.log(studentID);
 console.log(fullname);
